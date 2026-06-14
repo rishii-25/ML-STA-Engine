@@ -131,7 +131,7 @@ This transforms the project from a simple regression model into a **Machine Lear
 ## 📷 Critical Path Visualization
 
 <p align="center">
-<img src="assets/critical_path.png" width="900">
+<img src="assets/critical_path.png" width="600">
 </p>
 
 <p align="center">
