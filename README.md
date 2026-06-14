@@ -13,6 +13,14 @@
 ![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow)
 
 ---
+# 💡 Why ML-STA?
+
+Traditional SPICE simulations provide highly accurate timing analysis but become computationally expensive for large circuits.
+
+ML-STA Engine combines semiconductor physics with machine learning to deliver fast and accurate gate delay prediction while extending the prediction to complete circuit-level Static Timing Analysis through timing propagation and critical path extraction.
+
+The framework demonstrates how Artificial Intelligence can accelerate Electronic Design Automation workflows without sacrificing prediction quality.
+---
 
 # 📖 Overview
 
