@@ -1,0 +1,204 @@
+.model chain_test
+.inputs in_0
+.outputs out_100
+.names in_0 out_1
+0 1
+.names out_1 out_2
+0 1
+.names out_2 out_3
+0 1
+.names out_3 out_4
+0 1
+.names out_4 out_5
+0 1
+.names out_5 out_6
+0 1
+.names out_6 out_7
+0 1
+.names out_7 out_8
+0 1
+.names out_8 out_9
+0 1
+.names out_9 out_10
+0 1
+.names out_10 out_11
+0 1
+.names out_11 out_12
+0 1
+.names out_12 out_13
+0 1
+.names out_13 out_14
+0 1
+.names out_14 out_15
+0 1
+.names out_15 out_16
+0 1
+.names out_16 out_17
+0 1
+.names out_17 out_18
+0 1
+.names out_18 out_19
+0 1
+.names out_19 out_20
+0 1
+.names out_20 out_21
+0 1
+.names out_21 out_22
+0 1
+.names out_22 out_23
+0 1
+.names out_23 out_24
+0 1
+.names out_24 out_25
+0 1
+.names out_25 out_26
+0 1
+.names out_26 out_27
+0 1
+.names out_27 out_28
+0 1
+.names out_28 out_29
+0 1
+.names out_29 out_30
+0 1
+.names out_30 out_31
+0 1
+.names out_31 out_32
+0 1
+.names out_32 out_33
+0 1
+.names out_33 out_34
+0 1
+.names out_34 out_35
+0 1
+.names out_35 out_36
+0 1
+.names out_36 out_37
+0 1
+.names out_37 out_38
+0 1
+.names out_38 out_39
+0 1
+.names out_39 out_40
+0 1
+.names out_40 out_41
+0 1
+.names out_41 out_42
+0 1
+.names out_42 out_43
+0 1
+.names out_43 out_44
+0 1
+.names out_44 out_45
+0 1
+.names out_45 out_46
+0 1
+.names out_46 out_47
+0 1
+.names out_47 out_48
+0 1
+.names out_48 out_49
+0 1
+.names out_49 out_50
+0 1
+.names out_50 out_51
+0 1
+.names out_51 out_52
+0 1
+.names out_52 out_53
+0 1
+.names out_53 out_54
+0 1
+.names out_54 out_55
+0 1
+.names out_55 out_56
+0 1
+.names out_56 out_57
+0 1
+.names out_57 out_58
+0 1
+.names out_58 out_59
+0 1
+.names out_59 out_60
+0 1
+.names out_60 out_61
+0 1
+.names out_61 out_62
+0 1
+.names out_62 out_63
+0 1
+.names out_63 out_64
+0 1
+.names out_64 out_65
+0 1
+.names out_65 out_66
+0 1
+.names out_66 out_67
+0 1
+.names out_67 out_68
+0 1
+.names out_68 out_69
+0 1
+.names out_69 out_70
+0 1
+.names out_70 out_71
+0 1
+.names out_71 out_72
+0 1
+.names out_72 out_73
+0 1
+.names out_73 out_74
+0 1
+.names out_74 out_75
+0 1
+.names out_75 out_76
+0 1
+.names out_76 out_77
+0 1
+.names out_77 out_78
+0 1
+.names out_78 out_79
+0 1
+.names out_79 out_80
+0 1
+.names out_80 out_81
+0 1
+.names out_81 out_82
+0 1
+.names out_82 out_83
+0 1
+.names out_83 out_84
+0 1
+.names out_84 out_85
+0 1
+.names out_85 out_86
+0 1
+.names out_86 out_87
+0 1
+.names out_87 out_88
+0 1
+.names out_88 out_89
+0 1
+.names out_89 out_90
+0 1
+.names out_90 out_91
+0 1
+.names out_91 out_92
+0 1
+.names out_92 out_93
+0 1
+.names out_93 out_94
+0 1
+.names out_94 out_95
+0 1
+.names out_95 out_96
+0 1
+.names out_96 out_97
+0 1
+.names out_97 out_98
+0 1
+.names out_98 out_99
+0 1
+.names out_99 out_100
+0 1
+.end
